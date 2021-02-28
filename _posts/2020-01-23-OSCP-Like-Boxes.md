@@ -3,7 +3,7 @@ layout: post
 title: OSCP Like Boxes
 date: 2020-01-23 00:00:00 +0300
 description: OSCP like boxes for practicing # Add post description (optional)
-img:  # Add image post (optional)
+img:  software.jpg # Add image post (optional)
 tags: [CTF, OSCP, VulHub, HtB] # add tag
 ---
 
