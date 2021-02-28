@@ -1,5 +1,10 @@
 ---
+layout: post
 title: Deploying CTFd
+date: 2019-02-20 00:00:00 +0300
+description: Bare metal CTFd Install # Add post description (optional)
+img:  # Add image post (optional)
+tags: [CTF, CTFd] # add tag
 ---
 
 I had a recent requirement to deploy CTFd.  It was a simple deployment, but then I noticed some performance issues.  This is where I spent too much time trying to figure out how to increase the performance of the site.

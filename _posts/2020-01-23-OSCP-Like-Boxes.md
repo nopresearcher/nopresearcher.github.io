@@ -1,5 +1,10 @@
 ---
+layout: post
 title: OSCP Like Boxes
+date: 2020-01-23 00:00:00 +0300
+description: OSCP like boxes for practicing # Add post description (optional)
+img:  # Add image post (optional)
+tags: [CTF, OSCP, VulHub, HtB] # add tag
 ---
 
 Everyone is always looking for ways to prepare before attempting OSCP or as a way to practice if they run out of lab time.  Below is a collection boxes and sites to practice skills relevant to the OSCP exam.  If there are any missing please reach out to me on [@nopresearcher](https://twitter.com/nopresearcher).

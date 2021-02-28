@@ -1,5 +1,10 @@
 ---
+layout: post
 title: Proxmox GPU Passthough to Ubuntu VM
+date: 2018-12-22 00:00:00 +0300
+description: Proxmox GPU Passthrough on Ubuntu 18.04 # Add post description (optional)
+img:  # Add image post (optional)
+tags: [Proxmox, GPU] # add tag
 ---
 
 For this project I am using a repurposed old desktop, that is now a whitebox proxmox cluster node.  I am using Proxmox 5.3-5 at the time of install.
